@@ -44,7 +44,7 @@ deploy:
     - internal/docker-push:
        username: $USERNAME
        password: $PASSWORD
-       repository: kollbratt/microservices
+       repository: kollbratt/StatlerWaldorfCorp.TeamService
        registry: https://registry.hub.docker.com
      
 
